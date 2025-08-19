@@ -1,0 +1,9 @@
+# Ignore the dataset folder
+Drowsiness_data/
+
+# Ignore Python's virtual environment
+venv/
+
+# Ignore system files
+.DS_Store
+__pycache__/
